@@ -227,10 +227,10 @@ So enable self-service where it makes sense to do so. Use MSPs as needed to help
 ---
 # Resources
 
-* https://www.hitachivantara.com/en-us/newsroom-hvtv/in-the-press/2021/gl210923.html
-* https://azure.microsoft.com/en-us/overview/cost-optimization/
-* https://aws.amazon.com/aws-cost-management/aws-cost-optimization/
-* https://cloud.google.com/cost-management
-* https://www.oracle.com/webfolder/s/quicktours/scm/gqt-scm-manuf-costing-overview/index.html
+* [Hitachi Vantara Tackles Cloud Cost Paradox with New Cloud FinOps Services](https://www.hitachivantara.com/en-us/newsroom-hvtv/in-the-press/2021/gl210923.html)
+* [Azure Cloud Cost Optimization](https://azure.microsoft.com/en-us/overview/cost-optimization/)
+* [AWS Cloud Cost Optimization](https://aws.amazon.com/aws-cost-management/aws-cost-optimization/)
+* [GCP Cloud Cost Optimization](https://cloud.google.com/cost-management)
+* [Oracle Cloud Cost Optimization](https://www.oracle.com/webfolder/s/quicktours/scm/gqt-scm-manuf-costing-overview/index.html)
 
 
