@@ -1,6 +1,6 @@
 # #FinOps - Cloud Financial Operations
 Aside from Information Security, one of my keen areas of interest is Cloud Operations and in particular, how to use cloud effectively.
-Here, I share some of my own observations and experiences in helping organizations to migrate to and use cloud more effectively.
+Here, I share some of my own observations and experiences in helping organizations to migrate to and use cloud more cost effectively.
 This is not meant to be an exhaustive list. Rather, just a higher level overview of things you might consider in the course of your own #FinOps efforts.
 
 # Cloud vs. On-Premise
