@@ -213,13 +213,14 @@ Otherwise though, I found navigation to be easy. My familiarity beyond that is l
 
 ### Managed Service Providers
 A good managed service provider (MSP) can help you on your cloud journey and help you manage costs.
-They can provide guidance, help with guardrails and self-service enablement, move workloads, help identify reserved/spot instance opportunities, and operate product services.
+They can provide guidance, help with guardrails and self-service enablement, move workloads, help identify cost saving opportunities, and operate product services on your behalf.
 
-However, I would not recommend using an MSP to perform deployments on behalf of developers (i.., ticket-based IT).
-First, it introduces an unnecessary time lag (ticket-based IT), which slows down development.
+However, I would not recommend using an MSP to perform deployments on behalf of developers (i.e., ticket-based IT).
+First, it introduces an unnecessary time lag (more ticket-based IT), which slows down development.
 Second, if a change is needed, it means another ticket, and more time.
-Third, MSPs will often have a nominal "charge" to do deployments. That adds up.
+Third, it treats developers as untrusted to properly provision cloud services.
+Fourth, MSPs will often have a nominal "charge" to do deployments. That adds up.
 Lastly, it doesn't make sense to pay someone else to click the same easy buttons that a developer could click. 
 
-So enable self-service where it makes sense to do so. Use MSPs as needed to help accelerate your journey and guide your #FinOps.
+So enable self-service where it makes sense to do so. Use MSPs as needed to help accelerate your cloud transformation and guide your #FinOps journey.
 
