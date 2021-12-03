@@ -211,6 +211,17 @@ For example, in Azure you can enumerate all of your resources across all subscri
 GCP takes a project-based approach, with a UI that (in my experience) is slightly challenging in the way the resources are display.
 Otherwise though, I found navigation to be easy. My familiarity beyond that is limited.
 
+### Cloud Cost Management Services
+Although the cloud prividers are continuing to improve the native spend monitoring and reporting capabilities,
+there are a number of third party services which can also help.
+Services such as CloudHealth will provide visual reporting of spend by various attributes, but take 1.5% to 2% of your cloud spend for that privilege.
+That can add up for larger cloud consumers.   
+
+I have found that no service - yet - does a very good job in reporting spend based on actual business needs.
+Resource tagging is usually poorly done which further complicates this. And most software does not understance the concept of inheritance.
+For example, if an Azure resource group is tagged with a cost center ID, but the individual reosurces within are not tagged at all, then why not
+assume that those resources in that resource group fall under that cost center ID?  Such a basic concept that not a single vendor has figured out.
+
 ### Managed Service Providers
 A good managed service provider (MSP) can help you on your cloud journey and help you manage costs.
 They can provide guidance, help with guardrails and self-service enablement, move workloads, help identify cost saving opportunities, and operate product services on your behalf.
