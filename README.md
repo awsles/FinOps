@@ -216,8 +216,8 @@ A good managed service provider (MSP) can help you on your cloud journey and hel
 They can provide guidance, help with guardrails and self-service enablement, move workloads, help identify cost saving opportunities, and operate product services on your behalf.
 
 However, I would not recommend using an MSP to perform deployments on behalf of developers (i.e., ticket-based IT).
-First, it introduces an unnecessary time lag (more ticket-based IT), which slows down development.
-Second, if a change is needed, it means another ticket, and more time.
+First, it introduces an unnecessary time lag, slowing down development.
+Second, if a change is needed, it means another ticket, and even more time.
 Third, it treats developers as untrusted to properly provision cloud services.
 Fourth, MSPs will often have a nominal "charge" to do deployments. That adds up.
 Lastly, it doesn't make sense to pay someone else to click the same easy buttons that a developer could click. 
