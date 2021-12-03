@@ -187,7 +187,7 @@ Personally, I wrote a powershell script to identify such resources, saving one c
 Guardrails can be deployed which can limit the types and sizes of resources that a person can deploy,
 as well as impose certain security configuration requirements. 
 This provides a nice balance to self-service enablement. 
-All of the cloud providers offer controls to manage configuration and limit spend.
+All of the cloud providers offer controls to manage configuration and limit spend via budgets and alerts.
 
 ### OpEx vs CapEx
 A common accounting challenge is transitioning from a Capital Expenditure (CapEx) to an Operational Expenditure (OpEx) model.
@@ -224,3 +224,8 @@ Lastly, it doesn't make sense to pay someone else to click the same easy buttons
 
 So enable self-service where it makes sense to do so. Use MSPs as needed to help accelerate your cloud transformation and guide your #FinOps journey.
 
+---
+# Resources
+
+* https://azure.microsoft.com/en-us/overview/cost-optimization/
+* 
