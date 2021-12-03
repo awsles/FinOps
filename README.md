@@ -18,13 +18,13 @@ Consider:
 * Data Center overhead (including electricity, network redundancy, etc.)
 * Business Continuity / Resiliency overhead (stand-by data centers, etc.)
 * Your actual utilization of IT resources - How much are you paying just to have compute on stand-by availability?
+* Ability to rapidly respond to changing business and IT needs
 * Are you in the business of running data centers or of providing a B2C or B2B product / service?
 * And so on...
 
-But when you add it up... and I mean really add it up, you should arrive at a different conclusion - at least in the ballpark.
+But when you add it up... and I mean really add it up, you may arrive at a different conclusion.
 Essentially, this means you have to amortize the entire cost of your compute (including the aforementioned factors) over the life of the equipment.
-Even if that turns out to be moderately less expensive, is it really worth the hassle?  Is running a data center your core business?
-Now factor in what your actual compute needs are (i.e., 80 cores for 14 hours / day for peak demand, and then 8 cores for non-peak). 
+Even if on-premise turns out to be moderately less expensive, is it really worth the hassle?  Is running a data center your core business?
 
 In doing a comparative assessment, work with your finance team to look at your actual on-premise related expenditures.
 You may be surprised by the different things you are paying for. :smile:
