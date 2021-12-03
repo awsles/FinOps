@@ -227,6 +227,7 @@ So enable self-service where it makes sense to do so. Use MSPs as needed to help
 ---
 # Resources
 
+* https://www.hitachivantara.com/en-us/newsroom-hvtv/in-the-press/2021/gl210923.html
 * https://azure.microsoft.com/en-us/overview/cost-optimization/
 * https://aws.amazon.com/aws-cost-management/aws-cost-optimization/
 * https://cloud.google.com/cost-management
