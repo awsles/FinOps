@@ -228,4 +228,8 @@ So enable self-service where it makes sense to do so. Use MSPs as needed to help
 # Resources
 
 * https://azure.microsoft.com/en-us/overview/cost-optimization/
-* 
+* https://aws.amazon.com/aws-cost-management/aws-cost-optimization/
+* https://cloud.google.com/cost-management
+* https://www.oracle.com/webfolder/s/quicktours/scm/gqt-scm-manuf-costing-overview/index.html
+
+
