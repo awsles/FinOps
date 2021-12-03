@@ -79,7 +79,7 @@ And you only pay for that resource while it is deployed.
 Guardrails can be deployed within the cloud to limit the actions that people can take (so as not to inadvertently deploy a costly content delivery network for example).
 
 It should be note that companies such as VMWare and Snow Software are building solutions which bring self-service enablement to on-premise and even hybrid-cloud environments.
-One dashboard. Multiple environments. That is compelling -- if the equipment you've chosen to purchase can be managed by that dashboard (including the older stuff).
+One dashboard. Multiple environments, provided that the equipment already have can be managed by that dashboard.
 
 ### Lift and Shift
 One of the first ways to migrate to the cloud is "lift and shift", whereby existing applications are simply moved as-is to the cloud.
